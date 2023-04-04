@@ -2,4 +2,4 @@
 
 ## Project description
 
-### Josuel,Hendrick, Aryan
+### Josuel, Hendrik, Aryan
